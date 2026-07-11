@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ubaid Ur Rehman Arshad</h1>
 <h3 align="center">A passionate Full Stack Web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc0cDcyYWZ5MGhsdjdmaWZ1dGt4dXh4aGhwb3NjdWRveGU0dm8xdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/JyxdzuAaxZnPH7TyRd/giphy.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaid-ur-rehman17dec&label=Profile%20views&color=0e75b6&style=flat" alt="ubaid-ur-rehman17dec" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubaid-ur-rehman17dec" alt="ubaid-ur-rehman17dec" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Node.js, Express.js, MongoDB and Advanced React**
