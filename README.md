@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/ubaid-ur-rehman17dec/ubaid-ur-rehman17dec/main/1766893442274.jpg)
+![Banner](https://raw.githubusercontent.com/ubaid-ur-rehman17dec/ubaid-ur-rehman17dec/main/banner_design_1_ubaid_v2.png)
 <h1 align="center">Hi 👋, I'm Ubaid Ur Rehman Arshad</h1>
 <h3 align="center">A passionate Full Stack Web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
